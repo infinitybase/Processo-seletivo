@@ -26,8 +26,14 @@ Qualquer dúvida entre em contato, boa sorte. 😁
 
 ## Especificações técnicas ⚙
 
-- ✅ Front-end - Utilizando o framework React.JS (https://pt-br.reactjs.org) - Deve ser feito em Typescript - Separação das lógicas dos componentes visuais - Estilização [Material UI, Semantic UI, Styled Components, etc]. Ou escrever o seu próprio.
-  Design Mobile First - Gestão de dados [Redux, Context API, Zustand]
+- ✅ Front-end
+
+  - Utilizando o framework React.JS (https://pt-br.reactjs.org)
+  - Deve ser feito em Typescript
+  - Separação das lógicas dos componentes visuais
+  - Estilização [Material UI, Semantic UI, Styled Components, etc]. Ou escrever o seu próprio.
+  - Design Mobile First - Gestão de dados [Redux, Context API, Zustand]
+
 - ✅ Back-end
   - API Rest com o uso do framework Node.JS (https://nodejs.org/pt-br/)
   - Deve ser feito em Typescript
